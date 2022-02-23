@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-and-morty/static/css/main.35b1ab03.chunk.css",
+    "main.js": "/react-and-morty/static/js/main.6b8e7ef1.chunk.js",
+    "main.js.map": "/react-and-morty/static/js/main.6b8e7ef1.chunk.js.map",
+    "runtime-main.js": "/react-and-morty/static/js/runtime-main.726c9020.js",
+    "runtime-main.js.map": "/react-and-morty/static/js/runtime-main.726c9020.js.map",
+    "static/css/2.68a81a89.chunk.css": "/react-and-morty/static/css/2.68a81a89.chunk.css",
+    "static/js/2.4469d9d0.chunk.js": "/react-and-morty/static/js/2.4469d9d0.chunk.js",
+    "static/js/2.4469d9d0.chunk.js.map": "/react-and-morty/static/js/2.4469d9d0.chunk.js.map",
+    "index.html": "/react-and-morty/index.html",
+    "precache-manifest.e63dedc2776ebf2622837d7b34aa0736.js": "/react-and-morty/precache-manifest.e63dedc2776ebf2622837d7b34aa0736.js",
+    "service-worker.js": "/react-and-morty/service-worker.js",
+    "static/css/2.68a81a89.chunk.css.map": "/react-and-morty/static/css/2.68a81a89.chunk.css.map",
+    "static/css/main.35b1ab03.chunk.css.map": "/react-and-morty/static/css/main.35b1ab03.chunk.css.map",
+    "static/js/2.4469d9d0.chunk.js.LICENSE.txt": "/react-and-morty/static/js/2.4469d9d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.726c9020.js",
+    "static/css/2.68a81a89.chunk.css",
+    "static/js/2.4469d9d0.chunk.js",
+    "static/css/main.35b1ab03.chunk.css",
+    "static/js/main.6b8e7ef1.chunk.js"
+  ]
+}
