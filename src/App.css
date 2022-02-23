@@ -1,0 +1,24 @@
+.App{
+    min-height: 100vh;
+    background: #5C258D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4389A2, #5C258D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4389A2, #5C258D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+img{
+    height: 500px;
+    width: 379,69px;
+}
+.btn:hover{
+    transform: scale(1.2);
+    transition: .8s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 7px 9px 10px 9px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #000000, 7px 9px 10px 9px rgba(0,0,0,0);
+    
+}
+.btn::before{
+    transform: scale(1);
+    transition-duration: 1.5s;
+}
+#first{
+    box-shadow: -5px -5px 30px 2px whitesmoke, 5px 5px 30px 2px rgba(133, 213, 250, 0.945), inset 0 0 10px;
+}

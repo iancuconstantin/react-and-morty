@@ -1,0 +1,13 @@
+.location:hover{
+    transform: scale(1.1);
+    transition-duration: 0.8s;
+    z-index: 10;
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(255,255,255,0); 
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(255,255,255,0);
+    border: 3px groove #000000;
+    border-radius: 15px;
+}
+.location{
+    transform: scale(1);
+    transition-duration: 2.6s;
+}

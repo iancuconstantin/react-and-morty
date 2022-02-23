@@ -1,0 +1,19 @@
+.characters{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+.character:hover{
+    transform: scale(1.1);
+    transition-duration: 0.8s;
+    z-index: 10;
+    -webkit-box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 0px 0px 11px 7px rgba(255,255,255,0); 
+    box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 0px 0px 11px 7px rgba(255,255,255,0);
+    outline: 2px inset rgba(255,255,255,0.37);
+    outline-offset: 3px;
+    cursor: pointer;
+}
+.character{
+    transform: scale(1);
+    transition-duration: 2.6s;
+}
